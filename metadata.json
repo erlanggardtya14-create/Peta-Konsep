@@ -1,0 +1,6 @@
+{
+  "name": "PetaKonsep AI",
+  "description": "Sistem diagnostik kesenjangan belajar yang memetakan kesalahan siswa menjadi peta prasyarat konsep interaktif berbasis kecerdasan buatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
